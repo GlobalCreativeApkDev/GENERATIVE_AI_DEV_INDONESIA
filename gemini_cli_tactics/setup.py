@@ -11,7 +11,7 @@ setup(
     name='gemini_cli_tactics',
     version='1',
     packages=['gemini_cli_tactics'],
-    url='https://github.com/GlobalCreativeApkDev/GlobalCreativeApkDev.github.io/tree/main/cli-apps/gemini_cli_creature_hunter',
+    url='https://github.com/GlobalCreativeApkDev/GENERATIVE_AI_DEV_INDONESIA/tree/gcapkdev/gemini_cli_tactics',
     license='MIT',
     author='GlobalCreativeApkDev',
     author_email='globalcreativeapkdev2022@gmail.com',
