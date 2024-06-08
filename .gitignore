@@ -1,0 +1,10 @@
+.class
+
+# IDEA #
+.idea/
+*.iml
+/out
+
+.DS_Store
+.env
+**/saved/
