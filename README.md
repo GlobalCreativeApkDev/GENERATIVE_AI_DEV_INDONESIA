@@ -20,6 +20,7 @@ application project.
 **Application Projects**
 
 | Name | Author | Progress |
+|------|--------|----------|
 |      |        |          |
 
 *****************************************************************************************************************
@@ -44,4 +45,5 @@ aplikasi.
 **Projek-projek Aplikasi**
 
 | Nama | Developer | Kondisi Pengerjaan |
+|------|-----------|--------------------|
 |      |           |                    |
